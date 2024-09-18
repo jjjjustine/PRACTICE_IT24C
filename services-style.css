@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://www.infront.com/wp-content/uploads/2021/07/web-design-services-1024x425.jpg");
+    background-image: url("https://th.bing.com/th/id/R.dd2ddc5a9717d9b4aabd7540778b60a1?rik=PsHwgP82Mc2Ngw&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f04%2fDownload-desktop-stitch-wallpapers-HD.png&ehk=YKqAuFfYLmWYwRSuaYDZd%2fDrK%2fcbuDj0DH0dDimmAiQ%3d&risl=&pid=ImgRaw&r=0");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,9 +8,15 @@ h1{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 100px;
+}
+h2{
+  color: rgb(60, 179, 113), blue;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
 }.header {
     overflow: hidden;
-    background-color: rgb(33, 117, 7);
+    background-color: rgb(2, 121, 239);
     /*padding: 20px 10px;*/
   }
   
@@ -43,7 +49,7 @@ h1{
   
   /* Change the background color on mouse-over */
   .header a:hover {
-    background-color: rgb(88, 3, 3);
+    background-color:  rgb(171, 199, 11);
     color: White;
   }
   
@@ -63,7 +69,7 @@ h1{
     bottom: 0;
     width: 100%;
     background-color: rgb(153, 245, 125);
-    color: rgb(13, 151, 75);
+    color: 00CCDD;
     text-align: center;
   }
   #content{

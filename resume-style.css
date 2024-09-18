@@ -1,5 +1,5 @@
 body{
-    background-image: url("PHOTOS/BackGround\ 1.jpg");
+    background-image: url("https://www.chromethemer.com/download/hd-wallpapers/stitch-1920x1080.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -7,10 +7,46 @@ h1{
     color: rgb(60, 179, 113), blue;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 100px;
-}.header {
+    font-size: 70px;
+}
+h2{
+  color: rgb(60, 179, 113), blue;
+  text-align: center;
+  text-align: justify;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+h3{
+  color: rgb(60, 179, 113), blue;
+  text-align: center;
+  text-align: justify;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+h4{
+  color: rgb(60, 179, 113), blue;
+  text-align: center;
+  text-align: justify;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+h5{
+  color: rgb(60, 179, 113), blue;
+  text-align: center;
+  text-align: justify;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+h6{
+  color: rgb(60, 179, 113), blue;
+  text-align: center;
+  text-align: justify;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+.header {
     overflow: hidden;
-    background-color: rgb(33, 117, 7);
+    background-color: rgb(2, 121, 239);
     /*padding: 20px 10px;*/
   }
   
@@ -43,7 +79,7 @@ h1{
   
   /* Change the background color on mouse-over */
   .header a:hover {
-    background-color: rgb(88, 3, 3);
+    background-color:  rgb(171, 199, 11);
     color: White;
   }
   
@@ -63,7 +99,7 @@ h1{
     bottom: 0;
     width: 100%;
     background-color: rgb(153, 245, 125);
-    color: rgb(13, 151, 75);
+    color: 00CCDD;
     text-align: center;
   }
   #content{
